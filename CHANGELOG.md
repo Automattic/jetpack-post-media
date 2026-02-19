@@ -12,3 +12,4 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add Shortcodes class with methods to extract media identifiers from shortcode attributes (YouTube, Vimeo, TED, VideoPress, Hulu, Archive.org).
 - Initial version.
+- Twitter Cards: Add Twitter_Cards class with methods for generating Twitter Card meta tags.
