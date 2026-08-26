@@ -6,12 +6,12 @@
 	"require": {
 		"php": ">=7.4",
 		"automattic/block-delimiter": "^0.4.0-alpha",
-		"automattic/jetpack-connection": "^9.0.0-alpha",
+		"automattic/jetpack-connection": "^9.0.1-alpha",
 		"automattic/jetpack-image-cdn": "^0.8.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/phpunit-select-config": "^1.0.10-alpha"
+		"automattic/phpunit-select-config": "^1.0.11-alpha"
 	},
 	"autoload": {
 		"classmap": [
